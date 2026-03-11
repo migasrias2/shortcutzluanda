@@ -51,6 +51,13 @@
   }
   body {
     @apply bg-background text-foreground;
+    font-family: "Inter", sans-serif;
+  }
+}
+
+@layer utilities {
+  .font-forum {
+    font-family: "Forum", serif;
   }
 }
 

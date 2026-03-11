@@ -8,8 +8,7 @@ const Index = () => {
       <Navbar />
       <main>
         <PromoSlider />
-        <SectionSlider title="Network Highlights" />
-        <SectionSlider title="Watch Now" />
+        <SectionSlider title="Upcoming" />
       </main>
       <footer className="py-8 bg-black border-t border-white/10 text-center text-sm text-gray-500">
         <p>&copy; {new Date().getFullYear()} Shortcutz Luanda. All rights reserved.</p>
